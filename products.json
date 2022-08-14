@@ -1,0 +1,58 @@
+{
+  "items": [
+    {
+      "sys": { "id": "1" },
+      "fields": {
+        "title": "Apple iPhone 6",
+        "Category": "Electronics",
+        "price": 10.99,
+        "image": { "fields": { "file": { "url": "assets/images/portfolio/portfolio-01/iphone.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "2" },
+      "fields": {
+        "title": "T-shirt",
+        "Category": "Fashion",
+        "price": 12.99,
+        "image": { "fields": { "file": { "url": "assets/images/portfolio/portfolio-01/t-shirt.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "3" },
+      "fields": {
+        "title": "Power Bank",
+        "Category": "Electronics",
+        "price": 12.99,
+        "image": { "fields": { "file": { "url": "assets/images/portfolio/portfolio-01/iphone.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "4" },
+      "fields": {
+        "title": "Earrings",
+        "Category": "Jewelry & Watches",
+        "price": 22.99,
+        "image": { "fields": { "file": { "url": "assets/images/portfolio/portfolio-01/earrings.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "5" },
+      "fields": {
+        "title": "Leather Bag",
+        "Category": "Bag & Shoe",
+        "price": 88.99,
+        "image": { "fields": { "file": { "url": "assets/images/portfolio/portfolio-01/leather-bag.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "6" },
+      "fields": {
+        "title": "Rolex Watch",
+        "Category": "Jewelry & Watches",
+        "price": 32.99,
+        "image": { "fields": { "file": { "url": "assets/images/portfolio/portfolio-01/rolex-watch.png" } } }
+      }
+    }
+  ]
+}
