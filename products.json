@@ -24,7 +24,7 @@
         "title": "Power Bank",
         "Category": "Electronics",
         "price": 12.99,
-        "image": { "fields": { "file": { "url": "assets/images/portfolio/portfolio-01/iphone.jpg" } } }
+        "image": { "fields": { "file": { "url": "assets/images/portfolio/portfolio-01/powerbank.jpg" } } }
       }
     },
     {
@@ -47,6 +47,24 @@
     },
     {
       "sys": { "id": "6" },
+      "fields": {
+        "title": "Bluetooth EarBuds",
+        "Category": "Electronics",
+        "price": 16.67,
+        "image": { "fields": { "file": { "url": "assets/images/portfolio/portfolio-01/earbuds.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "7" },
+      "fields": {
+        "title": "Sunglass",
+        "Category": "Jewelry & Watches",
+        "price": 88.99,
+        "image": { "fields": { "file": { "url": "assets/images/portfolio/portfolio-01/sunglass.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "8" },
       "fields": {
         "title": "Rolex Watch",
         "Category": "Jewelry & Watches",

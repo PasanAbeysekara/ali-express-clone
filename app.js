@@ -53,7 +53,7 @@ class UI {
             <img
               src=${product.image}
               alt="product"
-              class="product-img"
+              class="product-img h-64"
             />
      
             <a
