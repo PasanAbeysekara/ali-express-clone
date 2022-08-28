@@ -14,4 +14,4 @@ https://ali-express-clone.vercel.app/
 
 ## Responsive mobile view
 
-![Screenshot_2022-08-28-08-21-21-26_4641ebc0df1485bf6b47ebd018b5ee76](https://user-images.githubusercontent.com/69195287/187055456-43c2347a-add0-4a18-9e1d-4c42d8bd14ce.jpg)
+<img src="https://user-images.githubusercontent.com/69195287/187055456-43c2347a-add0-4a18-9e1d-4c42d8bd14ce.jpg" height="500">
