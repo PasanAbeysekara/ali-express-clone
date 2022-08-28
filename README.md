@@ -2,7 +2,7 @@
 link for deployed app : 
 https://ali-express-clone.vercel.app/
 
-## Desktop view
+## Desktop preview
 
 * Shopping space
 
@@ -12,6 +12,6 @@ https://ali-express-clone.vercel.app/
 
 ![Screenshot (316)](https://user-images.githubusercontent.com/69195287/187055398-fa49f2a6-d900-452c-9af7-33aa4385b515.png)
 
-## Responsive mobile view
+## Responsive mobile preview
 
 <img src="https://user-images.githubusercontent.com/69195287/187055456-43c2347a-add0-4a18-9e1d-4c42d8bd14ce.jpg" height="500">
