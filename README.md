@@ -1,5 +1,5 @@
 # ali-express-clone
-ali-express-clone
+link for deployed app : 
 https://ali-express-clone.vercel.app/
 
 ## Desktop view
